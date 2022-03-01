@@ -1,3 +1,5 @@
+[![GitHub issues](https://img.shields.io/github/issues/amine0110/convert-images-from-jpr-or-png-into-dicom)](https://github.com/amine0110/convert-images-from-jpr-or-png-into-dicom/issues) [![GitHub stars](https://img.shields.io/github/stars/amine0110/convert-images-from-jpr-or-png-into-dicom)](https://github.com/amine0110/convert-images-from-jpr-or-png-into-dicom/stargazers) [![GitHub license](https://img.shields.io/github/license/amine0110/convert-images-from-jpr-or-png-into-dicom)](https://github.com/amine0110/convert-images-from-jpr-or-png-into-dicom) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pydicom)
+
 # Convert Images From JPG/PNG into DICOM
 
 In this repo you will find the code to do the conversion from a normal image into dicom image using `Python`, for more information about how it works you can see my blog post [here](https://pycad.co/convert-jpg-or-png-images-into-dicom/).
