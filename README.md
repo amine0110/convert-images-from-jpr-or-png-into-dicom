@@ -7,7 +7,7 @@ In this repo you will find the code to do the conversion from a normal image int
 ## Requirements
 
 ```
-pip install numpt
+pip install numpy
 pip install pillow
 pip install pydicom
 ```
